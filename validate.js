@@ -21,9 +21,6 @@ function match(user, pwd, check, validate) {
       window.location.href = "todo.html";
       return false;
   } 
-  // else {
-  //     return false;
-  // }
 }
 
 function check(){
