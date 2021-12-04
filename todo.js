@@ -28,7 +28,7 @@ function validate(){
                 count++;
             }
         }
-        if(count%5 == 0){
+        if(count == 5 ){
             resolve(`Congrats. ${count} Tasks have been Successfully Completed!!`);
         }
         else{
