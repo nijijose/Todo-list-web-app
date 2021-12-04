@@ -1,0 +1,10 @@
+footer{
+    background-color: rgb(42, 78, 100);
+    color: white;
+    height: 100px;
+    
+}
+footer h6{
+    text-align: center;
+    padding-top: 35px;
+}
